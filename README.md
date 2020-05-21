@@ -1,5 +1,7 @@
 # CSE214-Data-Structures
 
+HWs that I did for my Data Structures class
+
 HW1 - Arrays
 
 HW2 - Linked Lists
